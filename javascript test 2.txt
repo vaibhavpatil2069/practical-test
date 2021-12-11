@@ -1,0 +1,34 @@
+Create a simple crud operation for relation between users.
+
+You are admin and you have to add the user and its address.
+
+Task -> 
+
+Create a User (FirstName, Email, Address, Contact Us, Image (optional))
+
+
+Create a Functionality where with a simple frontend you can create, update or delete an user.
+Please create a proper responsive and asthetic UI so that that user can feel about the same.
+HTML Design and try to follow the coding standards for the same.
+
+Task ->
+
+1. Users List Screen
+2. Add / Update / Delete User
+3. Try to add the functionality for multiple addresses for the user.
+4. To store the data plesae use LocalStorage or SessionStorage from the browser.
+5. Try to load the data from the LocalStorage or SessionStorage whatever you have used on load, if you have the data in your storeage.
+
+------------------------------------------------------
+
+Following things to provide after test:
+
+1. Frontend Code
+
+NOTE:
+
+1. You are free to use any type of Frameworks for working such as Bootstrap, etc
+2. You are free to use any framework such as Angular, React, Vue, JavaScript, JQuery.
+3. You are not allowed to use any of your existing code
+4. UI can be done as by you, you can use table structure for the listing
+5. You are free to SURF through internet for any ideas and code.

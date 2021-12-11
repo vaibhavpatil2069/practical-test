@@ -1,0 +1,18 @@
+.container{width:1170px;height: auto;margin: 0 auto }
+.admin-user{text-align: center;height: 50px;font-weight: bold;color: #ffffff;line-height: 50px;background:-webkit-linear-gradient(left,#0072ff,#8811c5);}
+.form-detail{padding: 5%;border: 1px solid #000;margin-bottom: 2%}
+.form-control{border-radius: 5px}
+.contact{margin-top: 2%;}
+.address{margin-top: 2%;}
+/*.submit-button{text-align: center;display: inline-block;}*/
+.submit-button{border-radius:2px ;color: #fff;padding: 15px 30px;text-align: center;text-decoration: none;font-size: 15px;margin: 4px 2px;cursor: pointer;}
+.btn-1{background-color: green;}
+.btn-2{background-color: blue;}
+.table{margin: 0 auto;border-collapse: collapse;width: 100%;}
+.custom-table td, th{border: 1px solid #ccc;padding: 10px;margin: 5% 0}
+
+/*Responsive CSS*/
+@media only screen and (min-device-width:320px)and (max-device-width:768px)
+{
+	.container{width: 100%}
+}
